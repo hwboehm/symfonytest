@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#app_start:
+#  path: /{page}
+#  controller: App\Controller\StartController::page
