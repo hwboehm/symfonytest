@@ -14,7 +14,12 @@ class StartController
     {
 
         return new Response(
-            '<html><body>Start '.$page.'<pre>
+            '<html><body>Start '.$page.'
+
+
+
+Setup minimalistic synfony
+<pre>
 Needed: symfony client; composer; php.
 
 symfony new my_project
